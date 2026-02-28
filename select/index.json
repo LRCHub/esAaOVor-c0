@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラヴィット",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2026-02-28T07:03:42.678345Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラヴィット",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_ラヴィット_ピノキオピー.txt"
+    }
+  ]
+}
